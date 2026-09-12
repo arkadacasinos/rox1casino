@@ -40,6 +40,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="d98ab7ff254d2b2e" />
         <meta name="theme-color" content="#151817" />
         <meta name="robots" content="index, follow" />
         <link rel="icon" href="/rox-favicon.png" type="image/png" />
